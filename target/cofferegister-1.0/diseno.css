@@ -1,0 +1,40 @@
+#ho{
+    background-image: url(images/e.jpg);
+
+}
+
+form{
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border-radius: 2px;
+}
+
+div{
+    color: whitesmoke;
+    padding: 75px;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border-style:  solid;
+    border-radius: 20px;
+    background-color: rgba(0,0,175,0.2);
+
+
+
+}
+
+#lo{
+    color: white;
+    padding: 75px;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-style:  solid;
+    border-radius: 20px;
+    background-color: rgba(0,0,175,0.2);
+
+}
+
+
+
